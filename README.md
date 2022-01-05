@@ -1,4 +1,4 @@
-# aaai2021
+# icassp 22
 1. Unzip the zip file.
 2. Concatenate the alics_data_* to one file.
 3. preprocess_al.py: preprocess alibaba dataset
