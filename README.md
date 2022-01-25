@@ -1,4 +1,4 @@
-# icassp 22
+# sigir 22
 ## data format:
 1. Each line contains a dialogue sample.
 2. The columns are separated with '\001'
